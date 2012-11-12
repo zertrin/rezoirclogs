@@ -1,2 +1,2 @@
 from pyramid.paster import get_app
-application = get_app('/var/lib/rezoirclogs/production.ini', 'main')
+application = get_app('/srv/rezoirclogs/production.ini', 'main')
