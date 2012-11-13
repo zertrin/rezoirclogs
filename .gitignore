@@ -1,4 +1,5 @@
 .coverage
 .idea
 *.pyc
+rezoirclogs.egg-info
 .venv
