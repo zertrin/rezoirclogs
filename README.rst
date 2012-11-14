@@ -73,5 +73,5 @@ If the log files are not parsed correctly by rezoirclogs, modify the regular exp
 
 |travis|_
 
-.. |travis| image:: https://secure.travis-ci.org/supelec-rezo/rezoirclogs.png?branch=master
-.. _travis: http://travis-ci.org/supelec-rezo/rezoirclogs
+.. |travis| image:: https://secure.travis-ci.org/zertrin/rezoirclogs.png?branch=custom-zertrin
+.. _travis: http://travis-ci.org/zertrin/rezoirclogs
